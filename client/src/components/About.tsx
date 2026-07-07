@@ -41,9 +41,9 @@ const chapters: Chapter[] = [
 const strengths = ['Adaptability', 'Communication', 'Teamwork', 'Problem Solving', 'Creativity', 'Curiosity'];
 
 const education = [
-  { period: '2024 – 2028', deg: 'B.Tech, Computer Science', inst: 'MLRIT, Hyderabad' },
-  { period: '2022 – 2024', deg: 'Intermediate (MPC)',        inst: 'Sri Chaitanya Junior College' },
-  { period: 'Until 2022',  deg: 'Secondary School',          inst: 'Geetanjali High School' },
+  { period: '2022 – Present', deg: 'B.Tech, Computer Science', inst: 'MLRIT, Hyderabad' },
+  { period: '2020 – 2022',   deg: 'Intermediate (MPC)',        inst: 'Sri Chaitanya Junior College' },
+  { period: 'Until 2020',    deg: 'Secondary School',          inst: 'Geetanjali High School' },
 ];
 
 /* ── Single story chapter ── */
