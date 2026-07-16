@@ -39,6 +39,7 @@ const projects: Project[] = [
       "An intelligent system that analyzes users' existing skills, identifies missing competencies, and recommends personalized learning paths to boost employability and career growth.",
     tags: ['AI', 'Machine Learning', 'Career Tech', 'Analytics'],
     image: '/projects/skill-gap-analyzer.png',
+    liveUrl: 'https://ai-skill-gap-analyzer-ruby.vercel.app/',
   },
   {
     num: '02',
